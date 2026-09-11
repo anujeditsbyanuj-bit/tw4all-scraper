@@ -1,6 +1,7 @@
-pyrogram
 motor
 beautifulsoup4
 aiohttp
 apscheduler
 lxml
+pyrogram==2.0.106
+tgcrypto
